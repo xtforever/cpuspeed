@@ -1,0 +1,1 @@
+1624793937 : hash/µsec: 2.734075e+00, hash: 13670374, 5 sec, 230 nsec : model name : Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
