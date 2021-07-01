@@ -4,3 +4,4 @@
 1624794237 : hash/µsec: 7.214548e-01, hash: 3607274, 5 sec, 169 nsec : model name : AMD Ryzen 5 4500U with Radeon Graphics
 1625128179 : hash/µsec: 2.233307e+00, hash: 11166534, 5 sec, 60 nsec : model name : Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz
 1625128901 : hash/µsec: 3.088000e+00, hash: 15439999, 5 sec, 148 nsec : model name : Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz
+1624795189 : hash/µsec: 3.671993e+00, hash: 18359964, 5 sec, 230 nsec : model name : AMD Ryzen 5 4500U with Radeon Graphics
